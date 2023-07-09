@@ -6,7 +6,7 @@
 
 ## Computer
 
-`git clone git clone https://github.com/My-Repo/Solidity-GBYouth-BlockchainTraining-2023`
+`git clone https://github.com/My-Repo/Solidity-GBYouth-BlockchainTraining-2023`
 
 Make changes:
 
