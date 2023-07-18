@@ -12,3 +12,4 @@ contract LocalVariable {
         return  result;
 
     }
+}
