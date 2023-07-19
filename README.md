@@ -2,7 +2,7 @@
 
 Welcome to the "Solidity-GBYouth-BlockchainTraining-2023" repository. This repository contains all the lab exercises, notes, and associated resources used for the "High Impact Skills Development Program for GB Youth" at Gilgit, July 2023.
 
-Note: Live demo codes can be found (here)[[Solidity-Remix-Demo-GBYouth-BlockchainTraining-2023](https://github.com/itsHaseebSaeed/Solidity-Remix-Demo-GBYouth-BlockchainTraining-2023)]
+Note: Live demo codes can be found at [Solidity-Remix-Demo-GBYouth-BlockchainTraining-2023](https://github.com/itsHaseebSaeed/Solidity-Remix-Demo-GBYouth-BlockchainTraining-2023)
 
 ## Course Description
 
