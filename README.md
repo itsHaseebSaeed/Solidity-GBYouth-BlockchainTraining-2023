@@ -2,6 +2,8 @@
 
 Welcome to the "Solidity-GBYouth-BlockchainTraining-2023" repository. This repository contains all the lab exercises, notes, and associated resources used for the "High Impact Skills Development Program for GB Youth" at Gilgit, July 2023.
 
+Note: Live demo codes can be found (here)[[Solidity-Remix-Demo-GBYouth-BlockchainTraining-2023](https://github.com/itsHaseebSaeed/Solidity-Remix-Demo-GBYouth-BlockchainTraining-2023)]
+
 ## Course Description
 
 This course provides an intensive, hands-on introduction to the Solidity programming language and its applications in Blockchain development. Our objective is to empower GB Youth with the skills and knowledge to develop and interact with decentralized applications (dApps) and smart contracts on the Ethereum blockchain.
